@@ -1,4 +1,4 @@
-# Bubbelfong-BBF
+# Bubblefong-BBF
 
 Blockchain smart contract
 
